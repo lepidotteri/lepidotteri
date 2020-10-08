@@ -1,5 +1,6 @@
-![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
 ![Natura](https://github.com/lepidotteri/lepidotteri/blob/master/carhadras.jpg?raw=true)
+
+![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
 
 <!--
 **lepidotteri/lepidotteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
