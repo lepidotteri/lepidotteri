@@ -1,4 +1,4 @@
-![Natura](https://github.com/lepidotteri/lepidotteri/blob/master/carhadras.jpg?raw=true)
+![Natura](https://github.com/lepidotteri/lepidotteri/blob/master/mountain.jpg?raw=true)
 
 ![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
 
