@@ -1,19 +1,15 @@
 ![Natura](https://github.com/lepidotteri/lepidotteri/blob/master/mountain.jpg?raw=true)
 
-<!--
-
-![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
-
--->
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" style="border-radius: 20px" />
 
 ## ▹Social media
 [![Discord](https://img.shields.io/discord/736256701422108734?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/5PK6Q6wywj)
 ‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LEPv0?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/LEPv0)
 ‎‎ [![YouTube](https://img.shields.io/youtube/views/fp2EZbbuMa0?label=YouTube&logo=youtube&logoColor=ffffff&style=for-the-badge)](https://www.youtube.com/watch?v=fp2EZbbuMa0)
+‎‎ [![Twitch](https://img.shields.io/twitch/status/lepidotteri?color=262626&style=for-the-badge&logo=aws)](https://www.twitch.tv/lepidotteri)
 
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/lepidotteri?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/lepidotteri)
 ‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-lepidotteri-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/lepidotteri)
@@ -26,7 +22,6 @@
 [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lepidotteri) 
 [![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/lepidotteri)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14929077/lepidotteri)
-
 ### Spotify Playing 🎧
 [![Spotify](http://spotify-readme.lepi.io/api/spotify)](https://open.spotify.com/user/3144t76tnezrlmknrtgnlcvfxa4u)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -64,7 +59,62 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+#####
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/c9.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redis.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redshift.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sagemaker.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rekognition.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sqs.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/vpc.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cloudfront.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cw.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/apigateway.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lex.svg"> </code>
+
+</p>
+
+
+###### Learning
+<div align='center'>
+  <a href='https://deno.land/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Deno&logoColor=339933&color=black&style=flat-square&logo=deno' />
+  </a>
+  <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&logoColor=2496ed&color=black' />
+  </a>
+  <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=React.js&style=flat-square&logo=react&logoColor=61dafb&color=black' />
+  </a>
+  <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=flat-square&logo=godot-engine&logoColor=478cbf&color=black' />
+  </a>
+  <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=flat-square&logo=cmake&logoColor=064f8c&color=black' />
+  </a>
+  <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=ethereum&logoColor=green&color=black' />
+</div>
+
+###### Preferences
+<div align='center'>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Apple%20Bad&color=black&style=flat-square&logo=apple' />
+  <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&style=flat-square&logo=atom' />
+  <img src='https://img.shields.io/static/v1?label=Language&message=TypeScript&color=black&style=flat-square&logo=typescript' />
+  <img src='https://img.shields.io/static/v1?label=Blockchain&message=Ethereum&color=black&style=flat-square&logo=ethereum' />
+</div>
+
 <br/>
 
 ## ▹Credits
 - The icons/badges are provided by [Shields.io](https://shields.io/)
+
+![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
