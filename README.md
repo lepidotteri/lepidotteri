@@ -7,18 +7,17 @@
 -->
 ---
 
+<img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" />
 
 ## ▹Social media
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 [![Discord](https://img.shields.io/discord/736256701422108734?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/5PK6Q6wywj)
 ‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LEPv0?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/LEPv0)
 ‎‎ [![YouTube](https://img.shields.io/youtube/views/fp2EZbbuMa0?label=YouTube&logo=youtube&logoColor=ffffff&style=for-the-badge)](https://www.youtube.com/watch?v=fp2EZbbuMa0)
 
-‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/14929077/lepidotteri)
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/lepidotteri?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/lepidotteri)
 ‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-lepidotteri-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/lepidotteri)
+‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/14929077/lepidotteri)
 
 ###### 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Iepidotteri) 
@@ -31,14 +30,12 @@
 ### Spotify Playing 🎧
 [![Spotify](http://spotify-readme.lepi.io/api/spotify)](https://open.spotify.com/user/3144t76tnezrlmknrtgnlcvfxa4u)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
----
 
 
 ## ▹Fake projects
 - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
 - A few other Web3 side-projects that are not important enough to mention
-
 
 ### ▹Languages & Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -66,8 +63,8 @@
 ![IntelliJ-IDEA](http://img.shields.io/badge/-IntelliJ-8B6CCB?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
----
 
+<br/>
 
 ## ▹Credits
 - The icons/badges are provided by [Shields.io](https://shields.io/)
