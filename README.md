@@ -4,22 +4,13 @@
 
 ![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
 
-**lepidotteri/lepidotteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
+---
+
 
 ## ▹Social media
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 [![Discord](https://img.shields.io/discord/736256701422108734?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/5PK6Q6wywj)
 ‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LEPv0?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/LEPv0)
@@ -37,10 +28,17 @@ Here are some ideas to get you started:
 [![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/lepidotteri)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14929077/lepidotteri)
 
+### Spotify Playing 🎧
+[![Spotify](http://spotify-readme.lepi.io/api/spotify)](https://open.spotify.com/user/3144t76tnezrlmknrtgnlcvfxa4u)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+---
+
+
 ## ▹Fake projects
 - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
 - A few other Web3 side-projects that are not important enough to mention
+
 
 ### ▹Languages & Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -68,8 +66,8 @@ Here are some ideas to get you started:
 ![IntelliJ-IDEA](http://img.shields.io/badge/-IntelliJ-8B6CCB?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+---
 
-<br/>
 
 ## ▹Credits
 - The icons/badges are provided by [Shields.io](https://shields.io/)
