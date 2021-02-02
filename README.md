@@ -5,13 +5,11 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" style="border-radius: 20px" />
 
 ## ▹Social media
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
-‎‎ [![YouTube](https://img.shields.io/youtube/views/fp2EZbbuMa0?label=YouTube&logo=youtube&logoColor=ffffff&style=for-the-badge)](https://www.youtube.com/watch?v=fp2EZbbuMa0)
+‎‎ [![Twitter](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
 ‎‎ [![Twitch](https://img.shields.io/twitch/status/lepidotteri?color=262626&style=for-the-badge&logo=aws)](https://www.twitch.tv/lepidotteri)
 
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/lepidotteri?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/lepidotteri)
-‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-lepidotteri-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/lepidotteri)
-‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/14929077/lepidotteri)
+‎‎ [![Docker Hub](https://img.shields.io/badge/DockerHub-lepidotteri-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/lepidotteri)
 
 ###### 
 [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lepidotteri) 
