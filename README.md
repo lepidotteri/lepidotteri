@@ -5,9 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" style="border-radius: 20px" />
 
 ## ▹Social media
-[![Discord](https://img.shields.io/discord/736256701422108734?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/5PK6Q6wywj)
 ‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/lepidotteri?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/lepidotteri)
-‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/LEPv0?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/LEPv0)
 ‎‎ [![YouTube](https://img.shields.io/youtube/views/fp2EZbbuMa0?label=YouTube&logo=youtube&logoColor=ffffff&style=for-the-badge)](https://www.youtube.com/watch?v=fp2EZbbuMa0)
 ‎‎ [![Twitch](https://img.shields.io/twitch/status/lepidotteri?color=262626&style=for-the-badge&logo=aws)](https://www.twitch.tv/lepidotteri)
 
@@ -16,12 +14,10 @@
 ‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/14929077/lepidotteri)
 
 ###### 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Iepidotteri) 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lepidotteri) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lepidotteri) 
 [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lepidotteri) 
 [![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/lepidotteri)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14929077/lepidotteri)
+
 ### Spotify Playing 🎧
 [![Spotify](http://spotify-readme.lepi.io/api/spotify)](https://open.spotify.com/user/3144t76tnezrlmknrtgnlcvfxa4u)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
