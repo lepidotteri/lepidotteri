@@ -1,7 +1,5 @@
 ![Natura](https://github.com/lepidotteri/lepidotteri/blob/master/mountain.jpg?raw=true)
 
-![Libertà](https://github.com/lepidotteri/lepidotteri/blob/master/version2.png?raw=true)
-
 ---
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" style="border-radius: 20px" />
