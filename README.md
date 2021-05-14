@@ -2,8 +2,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/lepidotteri/lepidotteri/blob/master/final_flow.gif?raw=true" style="border-radius: 20px" />
-
 ## ▹Social media
 ‎‎ [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lepidotteri) 
 ‎‎[![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/lepidotteri)
